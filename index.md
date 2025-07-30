@@ -1,8 +1,10 @@
 # marimilch.github.io - Welcome to my GitHub Page!
 
-## Personal projects
+## Fun projects
 
 [Physical School Experiments in Unity - Cable Simulation](https://github.com/marimilch/unity-xpbd-jakobsen-cable)
+
+[Star Fox SNES Clone in Unity](https://github.com/marimilch/star-fox-clone)
 
 [ASCII_Water](https://github.com/marimilch/ascii_water)
 
